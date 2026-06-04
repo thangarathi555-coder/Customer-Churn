@@ -82,3 +82,4 @@ Matplotlib
 Seaborn
 Scikit-learn
 Jupyter Notebook
+<img width="864" height="600" alt="image" src="https://github.com/user-attachments/assets/41c1e6cb-5888-48d0-8e65-f9e465ae102d" />
