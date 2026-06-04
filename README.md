@@ -83,3 +83,4 @@ Seaborn
 Scikit-learn
 Jupyter Notebook
 <img width="864" height="600" alt="image" src="https://github.com/user-attachments/assets/41c1e6cb-5888-48d0-8e65-f9e465ae102d" />
+<img width="843" height="607" alt="image" src="https://github.com/user-attachments/assets/6e3eab43-42c2-438c-a527-dcd5294ae720" />
